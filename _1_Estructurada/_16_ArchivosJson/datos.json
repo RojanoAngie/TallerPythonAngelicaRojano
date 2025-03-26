@@ -1,0 +1,30 @@
+{
+  "personas": [
+    {
+      "nombre": "Federico Peluche",
+      "edad": 45,
+      "ciudad": "San MArtin Texmelucan",
+      "estado": "Puebla"
+    },{
+      "nombre": "Gabriela Torres",
+      "edad": 38,
+      "ciudad": "Santa Julia",
+      "estado": "Coahuila"
+    }, {
+      "nombre": "Francisco",
+      "edad": 45,
+      "ciudad": "San MArtin Texmelucan",
+      "estado": "Puebla"
+    } ,{
+      "nombre": "Jonathan Goiz",
+      "edad": 48,
+      "ciudad": "San MArtin Texmelucan",
+      "estado": "Puebla"
+    } ,{
+      "nombre": "Francisca Peluche",
+      "edad": 45,
+      "ciudad": "San MArtin Texmelucan",
+      "estado": "Puebla"
+    }
+      ]
+}
