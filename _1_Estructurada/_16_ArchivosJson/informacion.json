@@ -1,0 +1,45 @@
+{
+  "personas": [
+    {
+      "id": 124,
+      "nombre": "Federico Peluche",
+      "edad": 19,
+      "RFC": "San MArtin Texmelucan"
+    },    {
+      "id": 124,
+      "nombre": "Federico Peluche",
+      "edad": 12,
+      "RFC": "San MArtin Texmelucan"
+    },    {
+      "id": 124,
+      "nombre": "Federico Peluche",
+      "edad": 21,
+      "RFC": "San MArtin Texmelucan"
+    },    {
+      "id": 124,
+      "nombre": "Federico Peluche",
+      "edad": 15,
+      "RFC": "San MArtin Texmelucan"
+    },    {
+      "id": 124,
+      "nombre": "Federico Peluche",
+      "edad": 17,
+      "RFC": "San MArtin Texmelucan"
+    },    {
+      "id": 19,
+      "nombre": "Federico Peluche",
+      "edad": 25,
+      "RFC": "San MArtin Texmelucan"
+    },    {
+      "id": 124,
+      "nombre": "Fkjxshjdx1234",
+      "edad": 13,
+      "RFC": "San MArtin Texmelucan"
+    },    {
+      "id": 124,
+      "nombre": "Federico Peluche",
+      "edad": 12,
+      "RFC": "SFEDE12334"
+    }
+      ]
+}
